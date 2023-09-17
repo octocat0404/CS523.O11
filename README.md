@@ -6,8 +6,8 @@
 ## Thành Viên Nhóm
 - **Nguyễn Hoàng Xuân Huy** - 21520924
 - **Trần Ngọc Thiện** - 21521465
-## Chủ Đề: Cây Phân Đoạn Cập Nhật Trễ (Lazy Propagation Segment Tree)
-### Phần I: Cây Phân Đoạn
-### Phần II: Cây Phân Đoạn Cập Nhật Trễ
+## Chủ Đề: Cây Phân Đoạn Cập Nhật Trễ (Lazy Propagation in Segment Tree)
+### Phần I: Segment Tree Review
+### Phần II: Lazy Propagation in Segment Tree
 ## Tài Liệu Tham Khảo
 1. [VNOI: Tất tần tật về Cây Phân Đoạn](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend)
