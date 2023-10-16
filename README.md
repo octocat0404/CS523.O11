@@ -9,8 +9,9 @@
 ## Chủ Đề: Cây Phân Đoạn Cập Nhật Trễ (Lazy Propagation in Segment Tree)
 ### Phần I: Segment Tree Review
 ### Phần II: Lazy Propagation in Segment Tree
-### Phần III: Exercises
+### Phần III: Practice
+### Phần IV: Demo
 ## Tài Liệu
 1. [VNOI: Tất tần tật về Cây Phân Đoạn](https://vnoi.info/wiki/algo/data-structures/segment-tree-extend)
 2. [GeeksforGeeks: Segment Tree](https://www.geeksforgeeks.org/segment-tree-data-structure/)
-3. [Slide PowerPoint của nhóm](https://uithcm-my.sharepoint.com/:p:/g/personal/21520924_ms_uit_edu_vn/EZRHAA7UnvJKsLVkgcmgLPMB8Byr2Bqs_8xQyoIIPkSRpg?e=aeNoUw)
+3. [Slide PowerPoint của nhóm](https://uithcm-my.sharepoint.com/:p:/g/personal/21520924_ms_uit_edu_vn/EfO_nqACwRZDs4eat6BqeIkBfkpJ2hzqrxrjFLQc2-FDBA)
