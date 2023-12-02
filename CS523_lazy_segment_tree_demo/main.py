@@ -3,8 +3,8 @@ from collections import deque
 from copy import deepcopy
 from tkinter import *
 
-s_width = 10  #Chiều rộng widget nhỏ
-l_width = 70
+s_width = 10  #Chiều rộng widget label nhỏ
+l_width = 70  #Chiều rộng widget label lớn
 
 x_pad = 5
 y_pad = 5
