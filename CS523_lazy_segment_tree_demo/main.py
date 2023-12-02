@@ -114,7 +114,16 @@ def query_node():
   if index_l == "": index_l = "0"
   if index_r == "": index_r = str(sgtree.n - 1)
 
+  tree = deepcopy(sgtree.tree)
+  lazy = deepcopy(sgtree.lazy)
+
   result_var.set(str(sgtree.query(int(index_l), int(index_r) ) ) )
+
+  previous_tree_node_var.set(str([node for node in tree]) )
+  previous_lazy_node_var.set(str([node for node in lazy]) )
+
+  tree_node_var.set(str([node for node in sgtree.tree]) )
+  lazy_node_var.set(str([node for node in sgtree.lazy]) )
 
   display(sgt=sgtree)
 
